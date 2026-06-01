@@ -1,0 +1,2 @@
+langgraph==0.2.5
+langgraph-checkpoint==1.0.12

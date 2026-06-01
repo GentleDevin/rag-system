@@ -1,0 +1,1337 @@
+[
+    {
+        "id": "chunk0",
+        "chunk": "1 新型冠状病毒肺炎诊疗方案 （试行第九版） 为进一步做好新型冠状病毒肺炎（COVID-19）诊疗工作， 我们组织专家对《新型冠状病毒肺炎诊疗方案（试行第八版 修订版）》相关内容进行修订，形成《新型冠状病毒肺炎诊 疗方案（试行第九版）》",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk1",
+        "chunk": "一、病原学特点 新型冠状病毒（SARS-CoV-2）属于β属的冠状病毒，有 包膜，颗粒呈圆形或椭圆形，直径60～140nm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk2",
+        "chunk": "具有5 个必 需基因，分别针对核蛋白（N）、病毒包膜（E）、基质蛋白（M） 和刺突蛋白（S）4 种结构蛋白及RNA 依赖性的RNA 聚合酶 （RdRp）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk3",
+        "chunk": "核蛋白（N）包裹RNA 基因组构成核衣壳，外面围 绕着病毒包膜（E），病毒包膜包埋有基质蛋白（M）和刺突 蛋白（S）等蛋白",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk4",
+        "chunk": "刺突蛋白通过结合血管紧张素转化酶2 （ACE-2）进入细胞",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk5",
+        "chunk": "体外分离培养时，新型冠状病毒96 个 小时左右即可在人呼吸道上皮细胞内发现，而在Vero E6 和 Huh-7 细胞系中分离培养约需4～6 天",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk6",
+        "chunk": "与其他病毒一样，新型冠状病毒基因组也会发生变异， 某些变异会影响病毒生物学特性，如S 蛋白与ACE-2 亲和力 的变化将会影响病毒入侵细胞、复制、传播的能力，康复者 恢复期和疫苗接种后抗体的产生，以及抗体药物的中和能力， 2 进而引起广泛关注",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk7",
+        "chunk": "世界卫生组织（WHO）提出的“关切的 变异株”（variant of concern, VOC）有5 个，分别为阿尔 法（Alpha）、贝塔（Beta）、伽玛（Gamma）、德尔塔（Delta） 和奥密克戎（Omicron）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk8",
+        "chunk": "目前Omicron 株感染病例已取代 Delta 株成为主要流行株",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk9",
+        "chunk": "现有证据显示Omicron 株传播力 强于Delta 株，致病力有所减弱，我国境内常规使用的PCR 检测诊断准确性未受到影响，但可能降低了一些单克隆抗体 药物对其中和作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk10",
+        "chunk": "冠状病毒对紫外线和热敏感，56℃30 分钟、乙醚、75% 乙醇、含氯消毒剂、过氧乙酸和氯仿等脂溶剂均可有效灭活 病毒，氯己定不能有效灭活病毒",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk11",
+        "chunk": "传染源主要是新型冠状病毒感染者，在潜伏期即有传染 性，发病后5 天内传染性较强",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk12",
+        "chunk": "1.经呼吸道飞沫和密切接触传播是主要的传播途径",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk13",
+        "chunk": "感染后或接种新型冠状病毒疫苗后可获 得一定的免疫力",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk14",
+        "chunk": "3 三、病理改变 以下为新型冠状病毒肺炎疫情早期病例主要器官病理 学改变和新型冠状病毒检测结果（不包括基础疾病病变）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk15",
+        "chunk": "早期和较轻病变区见肺泡腔内浆液、纤维蛋白渗出以及 透明膜形成，炎细胞以单核细胞和淋巴细胞为主",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk16",
+        "chunk": "随病变进展和加重，大量单核细胞/巨噬细胞 和纤维蛋白充满肺泡腔",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk17",
+        "chunk": "Ⅱ型肺泡上皮细胞增生、部分细胞 脱落，可见多核巨细胞，偶见红染包涵体",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk18",
+        "chunk": "易见肺血管炎、 血栓形成（混合血栓、透明血栓），可见血栓栓塞",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk19",
+        "chunk": "肺内各 级支气管黏膜部分上皮脱落，腔内可见渗出物和黏液",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk20",
+        "chunk": "肺组织易见灶性出血，可 见出血性梗死、细菌和（或）真菌感染",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk21",
+        "chunk": "部分肺泡过度充气、 肺泡隔断裂或囊腔形成",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk22",
+        "chunk": "病程较长的病例，见肺泡腔渗出物 肉质变和肺间质纤维化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk23",
+        "chunk": "电镜下支气管黏膜上皮和II 型肺泡上皮细胞胞质内见 冠状病毒颗粒",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk24",
+        "chunk": "免疫组化染色显示部分支气管黏膜上皮、肺 泡上皮细胞和巨噬细胞呈新型冠状病毒抗原免疫染色和核 酸检测阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk25",
+        "chunk": "白髓萎缩，淋巴细胞数量减少、部分细胞坏 死",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk26",
+        "chunk": "红髓充血、灶性出血，脾脏内巨噬细胞增生并可见吞噬 4 现象",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk27",
+        "chunk": "免疫组化染色显示脾脏和淋巴结内CD4+ T 和CD8+T 细胞均减少",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk28",
+        "chunk": "淋巴结组织新型冠状病毒核酸检测可呈阳性， 巨噬细胞新型冠状病毒抗原免疫染色可见阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk29",
+        "chunk": "骨髓造血细 胞或增生或数量减少,粒红比例增高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk30",
+        "chunk": "部分心肌细胞可见变性、坏死，间质充血、水肿，可见 少数单核细胞、淋巴细胞和（或）中性粒细胞浸润",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk31",
+        "chunk": "全身主要部位小血管可见内皮细胞脱落、内膜或全层炎 症",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk32",
+        "chunk": "可见血管内混合血栓形成、血栓栓塞及相应部位的梗死",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk33",
+        "chunk": "肝血窦充血， 汇管区见淋巴细胞和单核细胞浸润及微血栓形成",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk34",
+        "chunk": "肝脏和胆囊新型冠状病毒核酸检 测可见阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk35",
+        "chunk": "肾小球毛细血管充血，偶见节段性纤维素样坏死",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk36",
+        "chunk": "近端小管上皮变性，部分坏死、脱落， 远端小管易见管型",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk37",
+        "chunk": "脑组织充血、水肿，部分神经元变性、缺血性改变和脱 失，可见噬节现象和卫星现象",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk38",
+        "chunk": "可见血管周围间隙单核细胞 和淋巴细胞浸润",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk39",
+        "chunk": "食管、胃和肠黏膜上 皮不同程度变性、坏死、脱落，固有层和黏膜下单核细胞、 淋巴细胞浸润",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk40",
+        "chunk": "睾丸见不同程度的生精细胞数量减少，Sertoli 细胞和 Leydig 细胞变性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk41",
+        "chunk": "鼻咽和胃肠黏膜及睾丸和唾液腺等器官可检测到新型 冠状病毒",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk42",
+        "chunk": "部分患者可以鼻塞、 流涕、咽痛、嗅觉味觉减退或丧失、结膜炎、肌痛和腹泻等 为主要表现",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk43",
+        "chunk": "重症患者多在发病一周后出现呼吸困难和（或） 低氧血症，严重者可快速进展为急性呼吸窘迫综合征、脓毒 症休克、难以纠正的代谢性酸中毒和出凝血功能障碍及多器 官功能衰竭等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk44",
+        "chunk": "极少数患者还可有中枢神经系统受累及肢端 缺血性坏死等表现",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk45",
+        "chunk": "值得注意的是重型、危重型患者病程中 可为中低热，甚至无明显发热",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk46",
+        "chunk": "轻型患者可表现为低热、轻微乏力、嗅觉及味觉障碍等， 6 无肺炎表现",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk47",
+        "chunk": "曾接种过疫苗者及感染Omicron 株者以无症状及轻症为 主",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk48",
+        "chunk": "有临床症状者主要表现为中低度发热、咽干、咽痛、鼻 塞、流涕等上呼吸道感染症状",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk49",
+        "chunk": "多数患者预后良好，少数患者病情危重，多见于老年人、 有慢性基础疾病者、晚期妊娠和围产期女性、肥胖人群",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk50",
+        "chunk": "儿童病例症状相对较轻，部分儿童及新生儿病例症状可 不典型，表现为呕吐、腹泻等消化道症状或仅表现为反应差、 呼吸急促",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk51",
+        "chunk": "极少数儿童可有多系统炎症综合征（MIS-C），出 现类似川崎病或不典型川崎病表现、中毒性休克综合征或巨 噬细胞活化综合征等，多发生于恢复期",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk52",
+        "chunk": "主要表现为发热伴 皮疹、非化脓性结膜炎、黏膜炎症、低血压或休克、凝血障 碍、急性消化道症状等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk53",
+        "chunk": "发病早期外周血白细胞总数正常或减少，可见淋巴细胞 计数减少，部分患者可出现肝酶、乳酸脱氢酶、肌酶、肌红 蛋白、肌钙蛋白和铁蛋白增高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk54",
+        "chunk": "多数患者C 反应蛋白（CRP） 和血沉升高，降钙素原（PCT）正常",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk55",
+        "chunk": "重型、危重型患者可 见D-二聚体升高、外周血淋巴细胞进行性减少，炎症因子升 高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk56",
+        "chunk": "（1）病原学检查:采用核酸扩增检测方法在鼻、口咽拭 子、痰和其他下呼吸道分泌物、粪便等标本检测新型冠状病 毒核酸",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk57",
+        "chunk": "核酸检测会受到病程、标本采集、检测过程、检测 试剂等因素的影响，为提高检测准确性，应规范采集标本， 标本采集后尽快送检",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk58",
+        "chunk": "（2）血清学检查:新型冠状病毒特异性IgM 抗体、IgG 抗体阳性，发病1 周内阳性率均较低",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk59",
+        "chunk": "由于试剂本身阳性判断值原因，或者体内存在干扰物质 （类风湿因子、嗜异性抗体、补体、溶菌酶等），或者标本 原因（标本溶血、标本被细菌污染、标本贮存时间过长、标 本凝固不全等），抗体检测可能会出现假阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk60",
+        "chunk": "一般不单独 以血清学检测作为诊断依据，需结合流行病学史、临床表现 和基础疾病等情况进行综合判断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk61",
+        "chunk": "早期呈现多发小斑片影及间质改变，以肺外带明显",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk62",
+        "chunk": "进 而发展为双肺多发磨玻璃影、浸润影，严重者可出现肺实变， 胸腔积液少见",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk63",
+        "chunk": "MIS-C 时，心功能不全患者可见心影增大和 肺水肿",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk64",
+        "chunk": "根据流行病学史、临床表现、实验室检查等综合分析， 8 作出诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk65",
+        "chunk": "新型冠状病毒核酸检测阳性为确诊的首要标准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk66",
+        "chunk": "未接种新型冠状病毒疫苗者，新型冠状病毒特异性抗体检测 可作为诊断的参考依据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk67",
+        "chunk": "接种新型冠状病毒疫苗者和既往感 染新型冠状病毒者，原则上抗体不作为诊断依据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk68",
+        "chunk": "有下述流行病学史中的任何1 条，且符合临床表现中任 意2 条",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk69",
+        "chunk": "无明确流行病学史的，符合临床表现中的3 条",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk70",
+        "chunk": "或符合 临床表现中任意2 条，同时新型冠状病毒特异性IgM 抗体阳 性（近期接种过新型冠状病毒疫苗者不作为参考指标）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk71",
+        "chunk": "（1）流行病学史 ①发病前14 天内有病例报告社区的旅行史或居住史",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk72",
+        "chunk": "②发病前14 天内与新型冠状病毒感染者有接触史",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk73",
+        "chunk": "③发病前14 天内曾接触过来自有病例报告社区的发热 或有呼吸道症状的患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk74",
+        "chunk": "④聚集性发病（14 天内在小范围如家庭、办公室、学校 班级等场所，出现2 例及以上发热和/或呼吸道症状的病例）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk75",
+        "chunk": "（2）临床表现 ①发热和（或）呼吸道症状等新型冠状病毒肺炎相关临 床表现",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk76",
+        "chunk": "9 ③发病早期白细胞总数正常或降低，淋巴细胞计数正常 或减少",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk77",
+        "chunk": "疑似病例具备以下病原学或血清学证据之一者: （1）新型冠状病毒核酸检测阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk78",
+        "chunk": "（2）未接种新型冠状病毒疫苗者新型冠状病毒特异性 IgM 抗体和IgG 抗体均为阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk79",
+        "chunk": "成人符合下列任何一条: 1.出现气促，RR≥30 次/分",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk80",
+        "chunk": "2.静息状态下，吸空气时指氧饱和度≤93%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk81",
+        "chunk": "3.动脉血氧分压（PaO2）/吸氧浓度（FiO2）≤300mmHg （1mmHg=0.133kPa）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk82",
+        "chunk": "高海拔（海拔超过1000 米）地区应根据以下公式对 PaO2/FiO2进行校正:PaO2/FiO2×[760/大气压(mmHg)]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk83",
+        "chunk": "4．临床症状进行性加重，肺部影像学显示24～48 小时 内病灶明显进展>50%者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk84",
+        "chunk": "10 儿童符合下列任何一条: 1.持续高热超过3 天",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk85",
+        "chunk": "2.出现气促（＜2 月龄，RR≥60 次/分",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk86",
+        "chunk": "＞5 岁，RR≥30 次/ 分），除外发热和哭闹的影响",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk87",
+        "chunk": "3.静息状态下，吸空气时指氧饱和度≤93%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk88",
+        "chunk": "符合以下情况之一者: 1.出现呼吸衰竭，且需要机械通气",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk89",
+        "chunk": "3.合并其他器官功能衰竭需ICU 监护治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk90",
+        "chunk": "七、重型/危重型高危人群 （一）大于60 岁老年人",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk91",
+        "chunk": "（二）有心脑血管疾病（含高血压）、慢性肺部疾病、 糖尿病、慢性肝脏、肾脏疾病、肿瘤等基础疾病者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk92",
+        "chunk": "（三）免疫功能缺陷（如艾滋病患者、长期使用皮质类 固醇或其他免疫抑制药物导致免疫功能减退状态）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk93",
+        "chunk": "八、重型/危重型早期预警指标 （一）成人",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk94",
+        "chunk": "有以下指标变化应警惕病情恶化: 1.低氧血症或呼吸窘迫进行性加重",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk95",
+        "chunk": "2.组织氧合指标(如指氧饱和度、氧合指数)恶化或乳酸 进行性升高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk96",
+        "chunk": "3.外周血淋巴细胞计数进行性降低或炎症因子如白细 胞介素6（IL-6）、CRP、铁蛋白等进行性上升",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk97",
+        "chunk": "4.D-二聚体等凝血功能相关指标明显升高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk98",
+        "chunk": "4.CRP、PCT、铁蛋白等炎症因子明显升高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk99",
+        "chunk": "5.影像学显示双侧或多肺叶浸润、胸腔积液或短期内 病变快速进展",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk100",
+        "chunk": "6.有基础疾病（先天性心脏病、支气管肺发育不良、 呼吸道畸形、异常血红蛋白、重度营养不良等）、有免疫缺 陷或低下（长期使用免疫抑制剂）和新生儿",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk101",
+        "chunk": "九、鉴别诊断 12 （一）新型冠状病毒肺炎轻型表现需与其他病毒引起的 上呼吸道感染相鉴别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk102",
+        "chunk": "（二）新型冠状病毒肺炎主要与流感病毒、腺病毒、呼 吸道合胞病毒等其他已知病毒性肺炎及肺炎支原体感染鉴 别，尤其是对疑似病例要尽可能采取快速抗原检测、多重PCR 核酸检测等方法，对常见呼吸道病原体进行检测",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk103",
+        "chunk": "（三）还要与非感染性疾病，如血管炎、皮肌炎和机化 性肺炎等鉴别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk104",
+        "chunk": "（四）儿童患者出现皮疹、黏膜损害时，需与川崎病鉴 别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk105",
+        "chunk": "（五）与新型冠状病毒感染者有密切接触者，即便常见 呼吸道病原检测阳性，也应及时进行新型冠状病毒病原学检 测",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk106",
+        "chunk": "十、病例的发现与报告 各级各类医疗机构发现符合病例定义的疑似病例或新 型冠状病毒抗原检测结果为阳性者，应立即采集标本进行核 酸检测或闭环转运至有条件的上级医疗机构进行核酸检测， 期间单人单间隔离",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk107",
+        "chunk": "核酸检测结果为阳性者，进行集中隔离 管理或送至定点医院治疗，并按照规定进行网络直报",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk108",
+        "chunk": "连续两次新型冠状病毒核酸检测阴性（采样时间至少间 隔24 小时），可排除疑似病例诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk109",
+        "chunk": "十一、治疗 13 （一）根据病情确定隔离管理和治疗场所",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk110",
+        "chunk": "1.轻型病例实行集中隔离管理，相关集中隔离场所不能 同时隔离入境人员、密切接触者等人群",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk111",
+        "chunk": "隔离管理期间应做 好对症治疗和病情监测，如病情加重，应转至定点医院治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk112",
+        "chunk": "2.普通型、重型、危重型病例和有重型高危因素的病例 应在定点医院集中治疗，其中重型、危重型病例应当尽早收 入ICU 治疗，有高危因素且有重症倾向的患者也宜收入ICU 治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk113",
+        "chunk": "1.卧床休息，加强支持治疗，保证充分能量和营养摄入",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk114",
+        "chunk": "2.密切监测生命体征，特别是静息和活动后的指氧饱和 度等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk115",
+        "chunk": "3.根据病情监测血常规、尿常规、CRP、生化指标（肝 酶、心肌酶、肾功能等）、凝血功能、动脉血气分析、胸部 影像学等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk116",
+        "chunk": "4.根据病情给予规范有效氧疗措施，包括鼻导管、面罩 给氧和经鼻高流量氧疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk117",
+        "chunk": "5.抗菌药物治疗:避免盲目或不恰当使用抗菌药物，尤 其是联合使用广谱抗菌药物",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk118",
+        "chunk": "1.PF-07321332/利托那韦片（Paxlovid）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk119",
+        "chunk": "适用人群为 14 发病5 天以内的轻型和普通型且伴有进展为重型高风险因素 的成人和青少年（12-17 岁，体重≥40kg）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk120",
+        "chunk": "用法：300mg PF-07321332 与100mg 利托那韦同时服用，每12 小时一次， 连续服用5 天",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk121",
+        "chunk": "使用前应详细阅读说明书，不得与哌替啶、 雷诺嗪等高度依赖CYP3A 进行清除且其血浆浓度升高会导致 严重和/或危及生命的不良反应的药物联用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk122",
+        "chunk": "2.单克隆抗体：安巴韦单抗/罗米司韦单抗注射液",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk123",
+        "chunk": "联 合用于治疗轻型和普通型且伴有进展为重型高风险因素的 成人和青少年（12-17 岁，体重≥40kg）患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk124",
+        "chunk": "在给药前两种药品分别以100 ml 生 理盐水稀释后，经静脉序贯输注给药，以不高于4ml/min 的 速度静脉滴注，之间使用生理盐水100ml 冲管",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk125",
+        "chunk": "在输注期间 对患者进行临床监测，并在输注完成后对患者进行至少1 小 时的观察",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk126",
+        "chunk": "可在病程早期用于有 高危因素、病毒载量较高、病情进展较快的患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk127",
+        "chunk": "使用剂量 为轻型100mg/kg,普通型200mg/kg,重型400mg/kg，静脉输 注，根据患者病情改善情况，次日可再次输注，总次数不超 过5 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk128",
+        "chunk": "可在病程早期用于有高危因素、 病毒载量较高、病情进展较快的患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk129",
+        "chunk": "输注剂量为200～ 500ml（4～5ml/kg），可根据患者个体情况及病毒载量等决 15 定是否再次输注",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk130",
+        "chunk": "对于氧合指标进行性恶化、影像学进展 迅速、机体炎症反应过度激活状态的重型和危重型患者，酌 情短期内（不超过10 日）使用糖皮质激素，建议地塞米松 5mg/日或甲泼尼龙40mg/日，避免长时间、大剂量使用糖皮 质激素，以减少副作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk131",
+        "chunk": "2.白细胞介素6（IL-6）抑制剂：托珠单抗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk132",
+        "chunk": "对于重型、 危重型且实验室检测IL-6 水平升高者可试用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk133",
+        "chunk": "用法:首次剂 量4～8mg/kg，推荐剂量400mg，生理盐水稀释至100ml，输 注时间大于1 小时",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk134",
+        "chunk": "首次用药疗效不佳者，可在首剂应用12 小时后追加应用一次（剂量同前），累计给药次数最多为2 次，单次最大剂量不超过800mg",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk135",
+        "chunk": "注意过敏反应，有结核等 活动性感染者禁用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk136",
+        "chunk": "用于具有重症高危因素、病情进展较快的普通型，重型 和危重型患者，无禁忌证情况下可给予治疗剂量的低分子肝 素或普通肝素",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk137",
+        "chunk": "发生血栓栓塞事件时，按照相应指南进行治 疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk138",
+        "chunk": "具有重症高危因素、病情进展较快的普通型，重型和危 重型患者，应当给予规范的俯卧位治疗，建议每天不少于12 16 小时",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk139",
+        "chunk": "患者常存在紧张焦虑情绪，应当加强心理疏导，必要时 辅以药物治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk140",
+        "chunk": "1.治疗原则:在上述治疗的基础上，积极防治并发症， 治疗基础疾病，预防继发感染，及时进行器官功能支持",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk141",
+        "chunk": "2.呼吸支持: （1）鼻导管或面罩吸氧 PaO2/FiO2低于300 mmHg 的重型患者均应立即给予氧疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk142",
+        "chunk": "接受鼻导管或面罩吸氧后，短时间（1～2 小时）密切观察， 若呼吸窘迫和（或）低氧血症无改善，应使用经鼻高流量氧 疗（HFNC）或无创通气（NIV）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk143",
+        "chunk": "（2）经鼻高流量氧疗或无创通气 PaO2/FiO2低于200 mmHg 应给予经鼻高流量氧疗（HFNC） 或无创通气（NIV）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk144",
+        "chunk": "接受HFNC 或NIV 的患者，无禁忌证的 情况下，建议同时实施俯卧位通气，即清醒俯卧位通气，俯 卧位治疗时间每天应大于12 小时",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk145",
+        "chunk": "部分患者使用HFNC 或NIV 治疗的失败风险高，需要密 切观察患者的症状和体征",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk146",
+        "chunk": "若短时间（1～2 小时）治疗后病 情无改善，特别是接受俯卧位治疗后，低氧血症仍无改善， 或呼吸频数、潮气量过大或吸气努力过强等，往往提示HFNC 17 或NIV 治疗疗效不佳，应及时进行有创机械通气治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk147",
+        "chunk": "（3）有创机械通气 一般情况下，PaO2/FiO2低于150 mmHg，特别是吸气努力 明显增强的患者，应考虑气管插管，实施有创机械通气",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk148",
+        "chunk": "但 鉴于重型、危重型患者低氧血症的临床表现不典型，不应单 纯把PaO2/FiO2 是否达标作为气管插管和有创机械通气的指 征，而应结合患者的临床表现和器官功能情况实时进行评估",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk149",
+        "chunk": "值得注意的是，延误气管插管，带来的危害可能更大",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk150",
+        "chunk": "早期恰当的有创机械通气治疗是危重型患者重要的治 疗手段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk151",
+        "chunk": "对于中重度急性呼吸 窘迫综合征患者，或有创机械通气FiO2高于50%时，可采用 肺复张治疗，并根据肺复张的反应性，决定是否反复实施肺 复张手法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk152",
+        "chunk": "应注意部分新型冠状病毒肺炎患者肺可复张性较 差，应避免过高的PEEP 导致气压伤",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk153",
+        "chunk": "（4）气道管理 加强气道湿化，建议采用主动加热湿化器，有条件的使 用环路加热导丝保证湿化效果",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk154",
+        "chunk": "积极进行气道廓清治疗，如振动排痰、高频 胸廓振荡、体位引流等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk155",
+        "chunk": "在氧合及血流动力学稳定的情况下， 尽早开展被动及主动活动，促进痰液引流及肺康复",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk156",
+        "chunk": "（5）体外膜肺氧合（ECMO） ECMO 启动时机",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk157",
+        "chunk": "在最优的机械通气条件下（FiO2≥80%， 18 潮气量为6ml/kg 理想体重，PEEP≥5cmH2O，且无禁忌证）， 且保护性通气和俯卧位通气效果不佳，并符合以下之一，应 尽早考虑评估实施ECMO: ①PaO2/FiO2＜50mmHg 超过3 小时",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk158",
+        "chunk": "②PaO2/FiO2＜80mmHg 超过6 小时",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk159",
+        "chunk": "③动脉血pH＜7.25 且PaCO2＞60mmHg 超过6 小时，且 呼吸频率＞35 次/分",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk160",
+        "chunk": "④呼吸频率＞35 次/分时，动脉血pH＜7.2 且平台压＞ 30cmH2O",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk161",
+        "chunk": "符合ECMO 指征，且无禁忌证的危重型患者，应尽早启 动ECMO 治疗，避免延误时机，导致患者预后不良",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk162",
+        "chunk": "仅需呼吸支持时选用静脉-静脉方式 ECMO（VV-ECMO），是最为常用的方式",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk163",
+        "chunk": "需呼吸和循环同时支 持则选用静脉-动脉方式ECMO（VA-ECMO）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk164",
+        "chunk": "VA-ECMO 出现头 臂部缺氧时可采用静脉-动脉-静脉方式ECMO（VAV-ECMO）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk165",
+        "chunk": "实施ECMO 后，严格实施肺保护性肺通气策略",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk166",
+        "chunk": "推荐初始设 置:潮气量＜4～6ml/kg 理想体重，平台压≤25cmH2O，驱动 压＜15cmH2O，PEEP5～15cmH2O，呼吸频率4～10 次/分，FiO2 ＜50%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk167",
+        "chunk": "对于氧合功能难以维持或吸气努力强、双肺重力依 赖区实变明显、或需气道分泌物引流的患者，应积极俯卧位 通气",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk168",
+        "chunk": "儿童心肺代偿能力较成人弱，对缺氧更为敏感，需要应 19 用比成人更积极的氧疗和通气支持策略，指征应适当放宽",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk169",
+        "chunk": "3.循环支持:危重型患者可合并休克，应在充分液体复 苏的基础上，合理使用血管活性药物，密切监测患者血压、 心率和尿量的变化，以及乳酸和碱剩余",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk170",
+        "chunk": "4.急性肾损伤和肾替代治疗:危重型患者可合并急性肾 损伤，应积极寻找病因，如低灌注和药物等因素",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk171",
+        "chunk": "在积极纠 正病因的同时，注意维持水、电解质、酸碱平衡",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk172",
+        "chunk": "连续性肾 替代治疗（CRRT）的指征包括:①高钾血症",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk173",
+        "chunk": "5.儿童多系统炎症综合征（MIS-C）:治疗原则是多学科 合作，尽早抗炎、纠正休克和出凝血功能障碍、脏器功能支 持，必要时抗感染治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk174",
+        "chunk": "无休克者首选静脉用丙种球蛋白 （IVIG），2g/kg，病情无好转时加用甲泼尼龙1～2mg/kg/ 日或托珠单抗等强化治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk175",
+        "chunk": "合并休克者首选静脉用丙种球蛋 白（IVIG）联合甲泼尼龙1～2mg/kg/日",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk176",
+        "chunk": "难治性重症患儿应 用大剂甲泼尼龙冲击（10～30mg/kg/日）或加用托珠单抗等 免疫治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk177",
+        "chunk": "6.重型或危重型妊娠患者：应多学科评估继续妊娠的风 险，必要时终止妊娠，剖宫产为首选",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk178",
+        "chunk": "7.营养支持：应加强营养风险评估，首选肠内营养，保 20 证热量25～30 千卡/kg/日、蛋白质＞1.2g/kg/日摄入，必 要时加用肠外营养",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk179",
+        "chunk": "可使用肠道微生态调节剂，维持肠道微 生态平衡，预防继发细菌感染",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk180",
+        "chunk": "本病属于中医“疫”病范畴，病因为感受“疫戾”之气， 各地可根据病情、证候及气候等情况，参照下列方案进行辨 证论治",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk181",
+        "chunk": "1.医学观察期 临床表现1：乏力伴胃肠不适 推荐中成药：藿香正气胶囊（丸、水、口服液） 临床表现2：乏力伴发热 推荐中成药：金花清感颗粒、连花清瘟胶囊（颗粒）、 疏风解毒胶囊（颗粒） 2.临床治疗期（确诊病例） 2.1 清肺排毒汤、清肺排毒颗粒 适用范围：结合多地医生临床观察，适用于轻型、普通 型、重型患者，在危重型患者救治中可结合患者实际情况合 理使用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk182",
+        "chunk": "基础方剂：麻黄9g、炙甘草6g、杏仁9g、生石膏15〜 30g（先煎）、桂枝9g、泽泻9g、猪苓9g、白术9g、茯苓15g、 柴胡16g、黄芩6g、姜半夏9g、生姜9g、紫菀9g、冬花9g、 射干9g、细辛6g、山药12g、枳实6g、陈皮6g、藿香9g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk183",
+        "chunk": "每天一付，早晚各一次 （饭后四十分钟），温服，三付一个疗程",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk184",
+        "chunk": "如有条件，每次服完药可加服大米汤半碗，舌干津液亏 虚者可多服至一碗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk185",
+        "chunk": "（注：如患者不发热则生石膏的用量要 小，发热或壮热可加大生石膏用量）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk186",
+        "chunk": "若症状好转而未痊愈 则服用第二个疗程，若患者有特殊情况或其他基础病，第二 疗程可以根据实际情况修改处方，症状消失则停药",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk187",
+        "chunk": "清肺排毒颗粒服法：开水冲服，一次2 袋，一日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk188",
+        "chunk": "2.2 轻型 (1)寒湿郁肺证 临床表现：发热，乏力，周身酸痛，咳嗽，咯痰，胸闷 憋气，纳呆，恶心，呕吐，腹泻或大便粘腻不爽",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk189",
+        "chunk": "舌质淡胖 齿痕或淡红，苔白厚腻或腐腻，脉濡或滑",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk190",
+        "chunk": "推荐处方：寒湿疫方 基础方剂：生麻黄6g、生石膏15g、杏仁9g、羌活15g、 葶苈子15g、贯众9g、地龙15g、徐长卿15g、藿香15g、佩 兰9g、苍术15g、云苓45g、生白术30g、焦三仙各9g、厚 朴15g、焦槟榔9g、煨草果9g、生姜15g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk191",
+        "chunk": "服法：每日1 剂，水煎600ml，分3 次服用，早中晚各 1 次，饭前服用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk192",
+        "chunk": "22 (2)湿热蕴肺证 临床表现：低热或不发热，微恶寒，乏力，头身困重， 肌肉酸痛，干咳痰少，咽痛，口干不欲多饮，或伴有胸闷脘 痞，无汗或汗出不畅，或见呕恶纳呆，便溏或大便粘滞不爽",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk193",
+        "chunk": "推荐处方：槟榔10g、草果10g、厚朴10g、知母10g、 黄芩10g、柴胡10g、赤芍10g、连翘15g、青蒿10g(后下)、 苍术10g、大青叶10g、生甘草5g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk194",
+        "chunk": "服法：每日1 剂，水煎400ml，分2 次服用，早晚各1 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk195",
+        "chunk": "推荐中成药：金花清感颗粒、连花清瘟胶囊（颗粒） 金花清感颗粒服法：开水冲服，一次1〜2 袋，一日3 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk196",
+        "chunk": "针灸治疗推荐穴位：合谷、后溪、阴陵泉、太溪、肺俞、 脾俞",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk197",
+        "chunk": "针刺方法：每次选择3 个穴位，针刺采用平补平泻法， 得气为度，留针30 分钟，每日一次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk198",
+        "chunk": "2.3 普通型 (1)湿毒郁肺证 临床表现：发热，咳嗽痰少，或有黄痰，憋闷气促，腹 23 胀，便秘不畅",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk199",
+        "chunk": "舌质暗红，舌体胖，苔黄腻或黄燥，脉滑数 或弦滑",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk200",
+        "chunk": "推荐处方：宣肺败毒方 基础方剂：麻黄6g、炒苦杏仁15g、生石膏30g、薏苡 仁30g、麸炒苍术10g、广藿香15g、青蒿12g、虎杖20g、 马鞭草30g、芦根30g、葶苈子15g、化橘红15g、甘草10g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk201",
+        "chunk": "服法：每日1 剂，水煎400ml，分2 次服用，早晚各1 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk202",
+        "chunk": "推荐中成药：宣肺败毒颗粒 服法：开水冲服，一次1 袋，每日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk203",
+        "chunk": "(2)寒湿阻肺证 临床表现：低热，身热不扬，或未热，干咳，少痰，倦 怠乏力，胸闷，脘痞，或呕恶，便溏",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk204",
+        "chunk": "推荐处方：苍术15g、陈皮10g、厚朴10g、藿香10g、 草果6g、生麻黄6g、羌活10g、生姜10g、槟榔10g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk205",
+        "chunk": "服法：每日1 剂，水煎400ml，分2 次服用，早晚各1 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk206",
+        "chunk": "（3）疫毒夹燥证 临床表现：恶寒，发热，肌肉酸痛，流涕，干咳，咽痛， 咽痒，口干、咽干，便秘，舌淡、少津，苔薄白或干，脉浮 24 紧",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk207",
+        "chunk": "推荐处方：宣肺润燥解毒方 基础方剂：麻黄6g、杏仁10g、柴胡12g、沙参15g、 麦冬15g、玄参15g、白芷10g、羌活15g、升麻8g、桑叶 15g、黄芩10g、桑白皮15g、生石膏20g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk208",
+        "chunk": "服法：每日1 剂，水煎400ml，分2 次服用，早晚各1 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk209",
+        "chunk": "推荐中成药：金花清感颗粒、连花清瘟胶囊（颗粒） 金花清感颗粒服法：开水冲服，一次1〜2 袋，一日3 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk210",
+        "chunk": "针灸治疗推荐穴位：内关、孔最、曲池、气海、阴陵泉、 中脘",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk211",
+        "chunk": "针刺方法：每次选择3 个穴位，针刺采用平补平泻法， 得气为度，留针30 分钟，每日一次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk212",
+        "chunk": "2.4 重型 (1)疫毒闭肺证 临床表现：发热面红，咳嗽，痰黄粘少，或痰中带血， 喘憋气促，疲乏倦怠，口干苦粘，恶心不食，大便不畅，小 便短赤",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk213",
+        "chunk": "推荐处方：化湿败毒方 25 基础方剂：生麻黄6g、杏仁9g、生石膏15g、甘草3g、 藿香10g（后下）、厚朴10g、苍术15g、草果10g、法半夏 9g、茯苓15g、生大黄5g（后下）、生黄芪10g、葶苈子10g、 赤芍10g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk214",
+        "chunk": "服法：每日1〜2 剂，水煎服，每次100ml〜200ml，一 日2〜4 次，口服或鼻饲",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk215",
+        "chunk": "推荐中成药：化湿败毒颗粒 服法：开水冲服，一次2 袋，一日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk216",
+        "chunk": "（2）气营两燔证 临床表现：大热烦渴，喘憋气促，谵语神昏，视物错瞀， 或发斑疹，或吐血、衄血，或四肢抽搐",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk217",
+        "chunk": "推荐处方：生石膏30〜60g（先煎）、知母30g、生地30 〜60g、水牛角30g（先煎）、赤芍30g、玄参30g、连翘15g、 丹皮15g、黄连6g、竹叶12g、葶苈子15g、生甘草6g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk218",
+        "chunk": "服法：每日1 剂，水煎服，先煎石膏、水牛角后下诸药， 每次100ml〜200ml，每日2〜4 次，口服或鼻饲",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk219",
+        "chunk": "推荐中成药：喜炎平注射液、血必净注射液、热毒宁注 射液、痰热清注射液、醒脑静注射液",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk220",
+        "chunk": "功效相近的药物根据 个体情况可选择一种，也可根据临床症状联合使用两种",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk221",
+        "chunk": "针灸治疗推荐穴位：大椎、肺俞、脾俞、太溪、列缺、 26 太冲",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk222",
+        "chunk": "针刺方法：每次选择3〜5 个穴位，背俞穴与肢体穴 位相结合，针刺平补平泻，留针30 分钟，每日一次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk223",
+        "chunk": "2.5 危重型 内闭外脱证 临床表现：呼吸困难、动辄气喘或需要机械通气，伴神 昏，烦躁，汗出肢冷，舌质紫暗，苔厚腻或燥，脉浮大无根",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk224",
+        "chunk": "推荐处方：人参15g、黑顺片10g（先煎）、山茱萸15g， 送服苏合香丸或安宫牛黄丸",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk225",
+        "chunk": "出现机械通气伴腹胀便秘或大便不畅者，可用生大黄5 〜10g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk226",
+        "chunk": "出现人机不同步情况，在镇静和肌松剂使用的情况 下，可用生大黄5〜10g 和芒硝5〜10g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk227",
+        "chunk": "推荐中成药：血必净注射液、热毒宁注射液、痰热清注 射液、醒脑静注射液、参附注射液、生脉注射液、参麦注射 液",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk228",
+        "chunk": "功效相近的药物根据个体情况可选择一种，也可根据临 床症状联合使用两种",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk229",
+        "chunk": "注：重型和危重型中药注射剂推荐用法 中药注射剂的使用遵照药品说明书从小剂量开始、逐步 辨证调整的原则，推荐用法如下： 病毒感染或合并轻度细菌感染：0.9%氯化钠注射液 250ml 加喜炎平注射液lOOmg，一日2 次，或0.9%氯化钠注 射液250ml 加热毒宁注射液20ml，或0.9%氯化钠注射液 250ml 加痰热清注射液40ml，一日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk230",
+        "chunk": "27 高热伴意识障碍：0.9%氯化钠注射液250ml 加醒脑静注 射液20ml，一日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk231",
+        "chunk": "全身炎症反应综合征或/和多脏器功能衰竭：0.9%氯化 钠注射液250ml 加血必净注射液100ml，一日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk232",
+        "chunk": "免疫调节：葡萄糖注射液250ml 加参麦注射液100ml 或 生脉注射液20〜60ml，一日2 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk233",
+        "chunk": "针灸治疗推荐穴位：太溪、膻中、关元、百会、足三里、 素髎",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk234",
+        "chunk": "针刺方法：选以上穴位，针刺平补平泻，留针30 分 钟，每日一次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk235",
+        "chunk": "2.6 恢复期 （1）肺脾气虚证 临床表现：气短，倦怠乏力，纳差呕恶，痞满，大便无 力，便溏不爽",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk236",
+        "chunk": "推荐处方：法半夏9g、陈皮10g、党参15g、炙黄芪30g、 炒白术10g、茯苓15g、藿香10g、砂仁6g（后下）、甘草6g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk237",
+        "chunk": "服法：每日1 剂，水煎400ml，分2 次服用，早晚各1 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk238",
+        "chunk": "（2）气阴两虚证 临床表现：乏力，气短，口干，口渴，心悸，汗多，纳 差，低热或不热，干咳少痰",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk239",
+        "chunk": "推荐处方：南北沙参各10g、麦冬15g、西洋参6g，五 味子6g、生石膏15g、淡竹叶10g、桑叶10g、芦根15g、丹 28 参15g、生甘草6g",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk240",
+        "chunk": "服法：每日1 剂，水煎400ml，分2 次服用，早晚各1 次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk241",
+        "chunk": "针灸治疗推荐穴位：足三里（艾灸）、百会、太溪",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk242",
+        "chunk": "针 刺方法：选以上穴位，针刺平补平泻，留针30 分钟，每日 一次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk243",
+        "chunk": "隔物灸贴取穴：大椎、肺俞、脾俞、孔最、每次贴敷 40 分钟，每日一次",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk244",
+        "chunk": "3.儿童中药治疗 儿童患者的中医证候特点、核心病机与成人基本一致， 治疗参照成人中医治疗方案，结合儿童患者临床症候和小儿 生理特点，辨证酌量使用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk245",
+        "chunk": "重视患者早期康复介入，针对新型冠状病毒肺炎患者呼 吸功能、躯体功能以及心理障碍，积极开展康复训练和干预， 尽最大可能恢复体能、体质和免疫能力",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk246",
+        "chunk": "十二、护理 根据患者病情，明确护理重点并做好基础护理",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk247",
+        "chunk": "重症患 者密切观察患者生命体征和意识状态，重点监测血氧饱和度",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk248",
+        "chunk": "危重症患者24 小时持续心电监测，每小时测量患者的心率、 呼吸频率、血压、血氧饱和度（SpO2），每4 小时测量并记 录体温",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk249",
+        "chunk": "合理、正确使用静脉通路，并保持各类管路通畅， 妥善固定",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk250",
+        "chunk": "按护 29 理规范做好无创机械通气、有创机械通气、人工气道、俯卧 位通气、镇静镇痛、ECMO 治疗的护理",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk251",
+        "chunk": "特别注意患者口腔护 理和液体出入量管理，有创机械通气患者防止误吸",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk252",
+        "chunk": "清醒患 者及时评估心理状况，做好心理护理",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk253",
+        "chunk": "十三、解除隔离管理、出院标准及解除隔离管理、出院 后注意事项 （一）解除隔离管理标准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk254",
+        "chunk": "轻型病例连续两次新型冠状病毒核酸检测N 基因和ORF 基因Ct 值均≥35（荧光定量PCR 方法，界限值为40，采样 时间至少间隔24 小时），或连续两次新型冠状病毒核酸检 测阴性（荧光定量PCR 方法，界限值低于35，采样时间至少 间隔24 小时），可解除隔离管理",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk255",
+        "chunk": "3.肺部影像学显示急性渗出性病变明显改善",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk256",
+        "chunk": "4.连续两次新型冠状病毒核酸检测N 基因和ORF 基因Ct 值均≥35（荧光定量PCR 方法，界限值为40，采样时间至少 间隔24 小时），或连续两次新型冠状病毒核酸检测阴性（荧 光定量PCR 方法，界限值低于35，采样时间至少间隔24 小 时）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk257",
+        "chunk": "30 （三）解除隔离管理、出院后注意事项",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk258",
+        "chunk": "解除隔离管理或出院后继续进行7 天居家健康监测，佩 戴口罩，有条件的居住在通风良好的单人房间，减少与家人 的近距离密切接触，分餐饮食，做好手卫生，避免外出活动",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk259",
+        "chunk": "十四、转运原则 按照国务院应对新型冠状病毒肺炎疫情联防联控机制 医疗救治组印发的《新型冠状病毒感染者转运工作方案（第 二版）》执行",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk260",
+        "chunk": "十五、医疗机构内感染预防与控制 严格按照国家卫生健康委印发的《医疗机构内新型冠状 病毒感染预防与控制技术指南（第三版）》的要求执行",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk261",
+        "chunk": "接种新型冠状病毒疫苗可以减少新型冠状病毒感染和 发病，是降低重症和死亡发生率的有效手段，符合接种条件 者均应接种",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk262",
+        "chunk": "符合加强免疫条件的接种对象，应及时进行加 强免疫接种",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk263",
+        "chunk": "保持良好的个人及环境卫生，均衡营养、适量运动、充 足休息，避免过度疲劳",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk264",
+        "chunk": "提高健康素养，养成“一米线”、 勤洗手、戴口罩、公筷制等卫生习惯和生活方式，打喷嚏或 咳嗽时应掩住口鼻",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk265",
+        "chunk": "保持室内通风良好，科学做好个人防护， 31 出现呼吸道症状时应及时到发热门诊就医",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk266",
+        "chunk": "近期去过高风险 地区或与新型冠状病毒感染者有接触史的，应主动进行新型 冠状病毒核酸检测",
+        "method": "semantic_chunk"
+    }
+]
