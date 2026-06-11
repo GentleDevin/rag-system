@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 
 from rag import llm_an
 
@@ -22,7 +23,13 @@ def interactive(file_path):
 
 
 if __name__ == "__main__":
-    # 设置文件地址
-    file_path = '/Users/openclaw/Documents/AI/咕泡第五期课件资料/02+03.第二章&第三章课件资料/5.【RAG检索增强生成技术实战】/RAG/曲面打印机说明书.txt'
-    # 展示
-    interactive(file_path)
+    # 获取项目根目录
+    PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    # 设置文件地址 - 相对于项目根目录
+    file_path = os.path.join(PROJECT_ROOT, "printer", "曲面打印机说明书.txt")
+
+    if not os.path.exists(file_path):
+        st.error(f"文件未找到: {file_path}")
+    else:
+        # 展示
+        interactive(file_path)
