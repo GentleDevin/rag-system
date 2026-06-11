@@ -1,5 +1,10 @@
 import pandas as pd
 import py2neo
+import os
+
+# 获取项目根目录
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_FILE = os.path.join(PROJECT_ROOT, "incident", "data-v11.xlsx")
 
 graph = py2neo.Graph("bolt://localhost:7687", auth=("neo4j", "neo4j123"))
 
@@ -8,7 +13,11 @@ if __name__ == '__main__':
     #graph.run("MATCH (n) DETACH DELETE n")
 
     # import data
-    df = pd.read_excel("/Users/openclaw/Documents/AI/咕泡第五期课件资料/02+03.第二章&第三章课件资料/7.【RAG 企业级落地实战优化】和【掌握LangChain实现AI大模型应用】/使用教程/Incident_all/backend/data-v11.xlsx")
+    if not os.path.exists(DATA_FILE):
+        print(f"Error: Data file not found at {DATA_FILE}")
+        print("Please place the data-v11.xlsx file in the incident directory.")
+        exit(1)
+    df = pd.read_excel(DATA_FILE)
     # 'Time', 'System', 'Incident', 'Account', 'Level', 'Reason', 'Loss'
     for index,row in df.iterrows():
         cql = f"merge (t:Time {{name:'{row['Time']}'}})"

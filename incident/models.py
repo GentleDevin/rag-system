@@ -114,7 +114,7 @@ def get_output(llm,question: str):
         cypher = cypher.strip().replace("`","").replace("cypher","").replace("事故","")
         print(cypher)
         if cypher != "not found":
-            result = run_cypher(cypher)
+            result = run_cypher.invoke(cypher)
         else:
             result = ""
         print(result)
