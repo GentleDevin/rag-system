@@ -19,9 +19,9 @@ class TextVector():
         
         # 从配置文件读取API相关设置
         self.use_api = getattr(cfg, 'use_api', True)
-        self.api_key = getattr(cfg, 'api_key', "sk-0ce01db57a2e48898c87757f537a704f")
+        self.api_key = getattr(cfg, 'api_key', "sk-94af811236f74c63bc0b2193c4c295b9")
         self.base_url = getattr(cfg, 'base_url', "https://dashscope.aliyuncs.com/compatible-mode/v1")
-        self.model_name = getattr(cfg, 'model_name', "text-embedding-v3")
+        self.model_name = getattr(cfg, 'model_name', "text-embedding-v4")
         self.dimensions = getattr(cfg, 'dimensions', 1024)
         self.batch_size = getattr(cfg, 'batch_size', 10)
         
